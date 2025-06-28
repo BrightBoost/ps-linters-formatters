@@ -1,0 +1,16 @@
+{
+  "name": "continued-from-1-original",
+  "version": "1.0.0",
+  "description": "A simple app to manage personal tasks, meetings, and action items",
+  "main": "app.js",
+  "scripts": {
+    "format": "prettier . --write",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.6.2"
+  }
+}
